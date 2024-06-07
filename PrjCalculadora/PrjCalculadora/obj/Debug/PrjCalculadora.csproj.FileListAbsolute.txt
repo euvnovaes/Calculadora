@@ -1,0 +1,12 @@
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\bin\Debug\PrjCalculadora.exe.config
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\bin\Debug\PrjCalculadora.exe
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\bin\Debug\PrjCalculadora.pdb
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.exe
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.pdb
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.Form1.resources
+E:\ETEC\C#\PrjCalculadora\PrjCalculadora\bin\Debug\PrjCalculadora.exe.config
+E:\ETEC\C#\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.exe
+E:\ETEC\C#\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.pdb
